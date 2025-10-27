@@ -84,7 +84,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 python test_cuda.py
 ```
 
-Подробнее см. **CUDA_SETUP.md**
+Скрипт test_cuda.py покажет, доступна ли CUDA, информацию о вашем GPU и даст рекомендации по настройке.
 
 ## Использование
 
